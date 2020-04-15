@@ -108,6 +108,16 @@ text-decoration: none;
         width: 100%;
     }
 }
+
+input[type=text] {
+    width: 94%;
+    padding: 13px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid purple;
+    outline: none;
+}
+
 .footer {
     text-align: center;
     background-image: linear-gradient(purple, yellow);
